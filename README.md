@@ -167,7 +167,7 @@ C. alternativos, ningún usuario lo entendió como “contenido alternativo” q
 #### Mapa Contenido
 Para organizar mejor el contenido del flujo en la inscripción y utilización de beneficios del club de cine, se realiza la siguiente estructura.
 
-[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/mapacont.png)
+[](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/mapacont.png)
 
 
 
@@ -177,17 +177,17 @@ Se modifica el Formulario para evitar que usuarios abandonen la página por soli
 Se busca optimizar los formularios para la web.
 -Orden lógico de datos: primero datos personales y luego se agrupan en etiqueta información de la cuenta.
 
-[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/fecha-nacimiento.png)
+[](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/fecha-nacimiento.png)
            
 
 No incluir el texto aclaratorio del campo únicamente dentro del campo:
-[Logo](https://github.com/yolangelica/club-socios-cine/blob/master/img/rut.png)
+[](https://github.com/yolangelica/club-socios-cine/blob/master/img/rut.png)
 
 
 Este es el campo donde todos fallaban, ahora se agrega una breve descripción de cómo llenar este campo, sin perder de vista la indicación al pinchar el input.
 
 Se modifica el campo ingreso de fecha, por un input.
-[Logo](https://github.com/yolangelica/club-socios-cine/blob/master/img/fecha-nac.png)
+[](https://github.com/yolangelica/club-socios-cine/blob/master/img/fecha-nac.png)
 	
 
 Se eliminan campos opcionales o irrelevantes.
@@ -207,7 +207,7 @@ Utilización de beneficios al comprar boletos de película, se simplifica el pro
 	Para la aplicación del descuento de club de socios del cine,estos se visualizarán  automáticamente al estar logueado, mostrando el valor normal y su descuento actual.
 
 
-[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/flujo-pantalla.png)
+[](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/flujo-pantalla.png)
 
 
 
