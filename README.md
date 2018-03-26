@@ -167,8 +167,7 @@ C. alternativos, ningún usuario lo entendió como “contenido alternativo” q
 #### Mapa Contenido
 Para organizar mejor el contenido del flujo en la inscripción y utilización de beneficios del club de cine, se realiza la siguiente estructura.
 
-![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/mapacont.png)
-
+[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/mapacont.png)
 
 
 
@@ -182,13 +181,13 @@ Se busca optimizar los formularios para la web.
            
 
 No incluir el texto aclaratorio del campo únicamente dentro del campo:
-[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/rut.png)
+[Logo](https://github.com/yolangelica/club-socios-cine/blob/master/img/rut.png)
 
 
 Este es el campo donde todos fallaban, ahora se agrega una breve descripción de cómo llenar este campo, sin perder de vista la indicación al pinchar el input.
 
 Se modifica el campo ingreso de fecha, por un input.
-[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/fecha-nac.png)
+[Logo](https://github.com/yolangelica/club-socios-cine/blob/master/img/fecha-nac.png)
 	
 
 Se eliminan campos opcionales o irrelevantes.
