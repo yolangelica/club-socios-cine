@@ -80,9 +80,10 @@ No especifica cómo llenar algunos datos (rut, contraseña).
 - RESULTADOS
  En la realización del test de usabilidad se buscaron usuarios que gusten de ir al cine , pero que no estén inscritos aún en el club cinehoyts , a estos se les entregaron tareas específicas:
 
-1- Registrarse como socios de club cinehoyts.
-2- Comprar entradas usando el beneficio de club cinehoyts.
-3- Verificación de puntos o perfil de socio.
+ 1- Registrarse como socios de club cinehoyts.
+ 2- Comprar entradas usando el beneficio de club cinehoyts.
+ 3- Verificación de puntos o perfil de socio.
+ 
 Para esta evaluación de usabilidad se utilizó el programa Loom-video recorder, se testean a 5 usuarios, estos aceptan ser grabados, bajos sus condiciones, y se les asegura que es información confidencial, que no será divulgada ni utilizada con otros fines.
 
 #### RESULTADOS
@@ -124,67 +125,15 @@ Luego de la recopilación y validación de esta problemática se realiza la iden
 - Usuario ya registrado
 - Usuario con otros beneficios.
 
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/user1.png)
 
-USUARIO YA REGISTRADO
-
-
-
-
-
-USUARIO NUEVO
-User persona 
-Tamara, 26 años, trabaja en administración de Recursos Humanos.
-
-“ojalá pudiera hacer todo desde mi celular, me cargan las filas y esperar”
-
-Tamara es soltera, sin hijos y vive con sus padres.
-Suele ir al cine sólo cuando hay alguna película de su interés.
-Va al cine acompañada de sus amigas, encuentra muy fome ir sola.
-Para pagar utilizan descuentos o promociones que puedan usar todas, esto es determinante para la elección del cine, además que esté cerca.
-Intentó ser socia del cine hoyts, pero tuvo problemas al ingresar su rut, porque  no tenía claro cuál era el problema, también le piden un PIN y no sabe para qué es.
-La clave cree que la olvidará porque le piden demasiados requisitos, (una mayúscula, una minúscula, un número)
-No le llegó su mail de confirmación, pero en caja puede usar su descuentos de igual forma.
-Intentó comprar por internet utilizando su descuento de socia, pero no entendió si le pedía su usuario mail, rut, claves, no lo especifica.
-
-NECESIDADES
-
-Obtener descuentos para todas sus amigas
-Tener la seguridad que ya es socia
-Poder comprar online utilizando su descuento fácilmente.
-Ver su perfil de socia por la web.
-
-FRUSTRACIONES
-No entendió si esta registrada.
-Ingreso de datos en formulario es confusa o muy exagerada en claves.
-No sabe si para comprar en web le pide su usuario mail, rut, clave, no entiende.
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/user2.png)
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/user3.png)
 
 
 
-USUARIOS CON OTROS BENEFICIOS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CUSTOMER JOURNEY MAP : NUEVO USUARIO
+#### CUSTOMER JOURNEY MAP : NUEVO USUARIO
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/customerj.png)
 
 
 Resultados:
@@ -200,9 +149,9 @@ No encuentra donde revisar su perfil de socio.
 *documento adjunto en carpeta
 
 
-ARQUITECTURA DE LA INFORMACIÓN
+#### ARQUITECTURA DE LA INFORMACIÓN
 
-Cart Sorting
+##### Cart Sorting
 Al momento de testear con usuarios, se descubrió que en el menú que está disponible desde Home, las etiquetas son confusas.
 Se realiza Cart sorting, para reorganizar esta información para que  el flujo sea más rápido y simple.
 Así cambia la pantalla original de cineHoyst a la nueva propuesta.
@@ -215,54 +164,43 @@ C. alternativos, ningún usuario lo entendió como “contenido alternativo” q
 
 
 
-Mapa Contenido
+#### Mapa Contenido
 Para organizar mejor el contenido del flujo en la inscripción y utilización de beneficios del club de cine, se realiza la siguiente estructura.
 
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/mapacont.png)
 
 
 
 
-
-
-
-
-
-FORMULARIO INSCRIPCIÓN
+### FORMULARIO INSCRIPCIÓN CLUB de socios
  
 Se modifica el Formulario para evitar que usuarios abandonen la página por solicitar demasiados datos.
 Se busca optimizar los formularios para la web.
 -Orden lógico de datos: primero datos personales y luego se agrupan en etiqueta información de la cuenta.
 
-ANTES							DESPUÉS
+[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/fecha-nacimiento.png)
            
 
 No incluir el texto aclaratorio del campo únicamente dentro del campo:
-ANTES				DESPUÉS
+[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/rut.png)
+
 
 Este es el campo donde todos fallaban, ahora se agrega una breve descripción de cómo llenar este campo, sin perder de vista la indicación al pinchar el input.
 
 Se modifica el campo ingreso de fecha, por un input.
-ANTES 				DESPUÉS
+[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/fecha-nac.png)
 	
 
-
 Se eliminan campos opcionales o irrelevantes.
-El flujo anterior se visualiza con estas pantallas
 
-
-
-
-
-
-
-PROTOTIPO Y TEST
+## PROTOTIPO Y TEST
 Gracias al paso anterior se busca eliminar los pasos innecesarios y dejar estrictamente aquellos que son relevantes.
 Se realizan sketch en papel y se testean con 7 usuarios.
 Se comenzaron a eliminar algunos campos que parecen irrelevantes para el usuario.
 Y se crea nuevo flujo de perfil usuario utilizando otras páginas de socios, como Grupón, Cuponatic, Movistar o de juegos donde acumulan puntos, por ejemplo Candy Crush sirvió para determinar los premios bloqueados con puntaje insuficiente  y aquellos con el puntaje suficiente que aparecieran desbloqueados.
 
 
-NUEVA PROPUESTA 
+#### NUEVA PROPUESTA 
 Incluye: 
 Flujo registro con nuevo formulario más rápido y simple(6 pasos) v/s 9 pasos versión anterior.
 Nuevo espacio Perfil de Usuario, se crea para mejorar la experiencia completa del usuario al inscribirse y sentirse parte de este CLub, mejoraría la fidelización y conversión de usuarios. 
@@ -270,13 +208,7 @@ Utilización de beneficios al comprar boletos de película, se simplifica el pro
 	Para la aplicación del descuento de club de socios del cine,estos se visualizarán  automáticamente al estar logueado, mostrando el valor normal y su descuento actual.
 
 
-
-
-
-
-
-
-
+[Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/flujo-pantalla.png)
 
 
 
@@ -284,17 +216,6 @@ Utilización de beneficios al comprar boletos de película, se simplifica el pro
 
 Para utilizar el prototipo ingresar al siguiente Link: 
 https://marvelapp.com/8498464
-
-
-
-
-
-
-
-
-
-
-
 
 
 Como conclusión
