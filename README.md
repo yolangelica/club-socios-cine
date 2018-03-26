@@ -1,5 +1,6 @@
 
 # Club Cine
+![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/logo.png)
 
 El nuevo Club Hoyts ha querido sumarse a la era de la movilidad de la mano de una aplicación móvil. Con esta nueva herramienta pretende convertirse en un programa de fidelización más cercano al usuario fortaleciendo la experiencia de las personas al aportarle más ventajas y beneficios.
 
@@ -16,151 +17,63 @@ Contextualizando...
 El registro de inscripción es únicamente online, a través de la página oficial http://cinehoyts.cl/club-cinehoyts/, una vez registrado, quedará automáticamente validado para empezar a utilizar sus Beneficios y Descuentos al día siguiente después de afiliarse a la plataforma.” 
 
 
-Descubrir Problemáticas...
+## INVESTIGACIÓN
+
+ **Descubrir Problemáticas...**
 
 
 Para descubrir la problemática con respecto al club de beneficios, se realizó un proceso de Investigación, el que consiste en entrevistas a usuarios del cine y se revisan las páginas de redes sociales, correspondientes al sitio.
  Se encuentran los siguientes comentarios, los que son repetitivos y se considera este problema para realizar la investigación.
 
- Confusión al ingresar rut, indica rut inválido sin aclarar error específico, en Club de Socios.
+- Confusión al ingresar rut, indica rut inválido sin aclarar error específico, en Club de Socios.
 
- No se validan beneficios de Club de Cine al comprar por internet.
+- No se validan beneficios de Club de Cine al comprar por internet.
 
-No validan beneficios del Club de Cine, no tiene seguridad o confirmación por correo u otro medio que ya es cliente, en caja se entera que no quedó registrado.
-
-Para ver más opiniones, estás se encuentran en documento adjunto, con el título Opiniones/sugerencias/reclamos.
+- No validan beneficios del Club de Cine, no tiene seguridad o confirmación por correo u otro medio que ya es cliente, en caja se entera que no quedó registrado.
 
 
 
 
-ENTREVISTAS A  USUARIO
-RESULTADOS
+### 1-ENTREVISTAS A  USUARIO
 
-LUGAR : La entrevista se realizó en  cine Hoyts de Maipú y también en Agustinas.
-Entrevistados: Se entrevistaron a Supervisores,cajeros y  clientes.
 
-Supervisores/ cajeros
-Resultados:
+- LUGAR : La entrevista se realizó en  cine Hoyts de Maipú y también en Agustinas.
+- Entrevistados: Se entrevistaron a Supervisores,cajeros y  clientes.
+
+ **Supervisores/ cajeros**
+ 
+- Resultados:
 Con respecto a la verificación de puntos, indican que se podría verificar desde la web, pero al pedirles que lo realicen se percatan que no se pueden ver los datos, sólo informan que hay que descargar la app, para ver puntos, pero la inscripción es por cualquier plataforma.
 Confirman la información de que este sistema es nuevo desde este año 2018.
 Dicen que los usuarios utilizan mucho los beneficios inmediatos sobre todo los días lunes y martes.
-Clientes
-Resultados:
+ **Clientes**
+-Resultados:
 No tienen la app del cine, no lo sientes indispensable, gasta memoria.
 Comprar entradas principalmente en caja y luego desde su laptop, por sentir que es más clara la información o cómodo, no saben si los descuentos los pueden validar desde la web.
-Se inscriben al club para tener los beneficios del 2x1 o de maxicombo, pero no les es muy importante juntar puntos, es a largo plazo, no saben donde visualizarlos lo que se les hace menos llamativo.
+Se inscriben al club para tener los beneficios del 2x1 o de maxicombo, pero no les es muy importante juntar puntos, es a largo plazo, no saben donde visualizarlos, lo que se les hace menos llamativo.
 Suelen ir acompañados al cine, por lo que les gusta este tipo de promociones.
 Quienes descargaron alguna vez la app, no pudieron utilizar otro tipos de descuentos( compañías telefónica, bancos,etc).
 
 
-Para verificar las problemáticas señaladas por los usuarios se realizaron dos evaluaciones una heurística  y con un test de usabilidad con clientes.
+Para verificar las problemáticas señaladas por los usuarios se realizaron dos evaluaciones: 
+- Una heurística.
+- Test de usabilidad.
 
-EVALUACIÓN HEURÍSTICA
-RESULTADOS
+ ### EVALUACIÓN HEURÍSTICA
+ 10 HEURÍSTICAS DE USABILIDAD DE JAKOB NIELSEN
+
+ 
+- RESULTADOS
 AL realizar la evaluación se encontraron las siguientes falencias:
 Pide algunos datos sin especificar para qué servirán (PIN, teléfono, cine favorito)
-Faltan  botones para regresar
-No existe un perfil, luego del registro
-No especifica cómo llenar algunos datos (rut, contraseña)
-
-Se adjunta evaluación.
-VERIFICACIÓN DE LAS 10 HEURÍSTICAS DE USABILIDAD DE JAKOB NIELSEN
-
-para validar la usabilidad de nuesta app revisamos si cumplia con las 10 heurísticas de usabilidad, cuando encontramos falencias en algún punto, se corrigieron y dejó nota de ello.
+Faltan  botones para regresar.
+No existe un perfil, luego del registro.
+No especifica cómo llenar algunos datos (rut, contraseña).
 
 
-1
+### TEST USABILIDAD
 
-Visibilidad estado sistema:
-
-
-Al cargar la página muestra que está en este proceso.
-
-CUMPLE
-
-2
-MATCH ENTRE EL SISTEMA Y EL MUNDO REAL
-Errores detectados:
-solicita PIN, pero no indica para qué será utilizado.
-NO CUMPLE
-
-3
-CONTROL Y LIBERTAD AL USUARIO
-en pantalla datos personales no tiene boton back, pero si en la pantalla siguiente.
-NO CUMPLE EN TODAS LAS PANTALLAS
-
-
-
-4
-Consistencia y estándares.
-CUMPLE
- interfaces consistentes
-
-5
-PREVENCIÓN DE ERRORES
-CUMPLE
-solicita confirmar clave creada.
-
-
-
-6
-RECONOCIMIENTO EN LUGAR DE RECORDACIÓN
- 
- 
-
-
-7
-FLEXIBILIDAD Y EFICIENCIA EN EL USO
- 
-No existe un perfil en la web de club cinehoyts para verificar registro y puntos acumulados.
-NO cumple
-
-8 
-DISEÑO ESTÉTICO Y MINIMALISTA
- 
-cumple
-
-9
-AYUDA A LOS USUARIOS A RECONOCER Y RECUPERARSE DE LOS ERRORES
- 
-Al ingresar  un pin erróneo, envía mensaje indicando recien cómo es correcto .”Contraseña La contraseña debe tener mínimo una letra mayúscula, una minúscula y un número.”
-NO CUMPLE DE FORMA CORRECTA
-Corregir, enviar mensaje antes que ingrese, simplificar contraseña
-
-10
-AYUDA Y DOCUMENTACIÓN
-CUMPLE
-terminos y condiciones disponibles antes de la inscripción y al finalizar inscripción.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TEST USABILIDAD
-RESULTADOS
-
-
+- RESULTADOS
  En la realización del test de usabilidad se buscaron usuarios que gusten de ir al cine , pero que no estén inscritos aún en el club cinehoyts , a estos se les entregaron tareas específicas:
 
 1- Registrarse como socios de club cinehoyts.
@@ -168,17 +81,18 @@ RESULTADOS
 3- Verificación de puntos o perfil de socio.
 Para esta evaluación de usabilidad se utilizó el programa Loom-video recorder, se testean a 5 usuarios, estos aceptan ser grabados, bajos sus condiciones, y se les asegura que es información confidencial, que no será divulgada ni utilizada con otros fines.
 
-RESULTADOS
-Usuarios no encuentran de forma inmediata link para registro.
-Al ingresar se encuentran con un formulario demasiado extenso, se muestran incómodos.
-los 5 fallan en completar datos : rut, crear contraseña.(usuarios no entienden cómo debe ser llenado,el rut lo ingresan sin puntos y con guión y página solicita que sean con puntos y guion, no es intuitivo)
-4 de 5 usuarios consideran “ridículo” o “exagerado” las condiciones para crear contraseña. ( 1 mayúscula, 1 minúscula y 1 número), sienten que no recordarán posteriormente la clave.
-piden crear un PIN, además de contraseñas, no explican para qué.
-Al intentar ingresar con sus nuevos usuarios creados, no existe un perfil.
-Al comprar usando su registro un boleto, les piden un dato para usar sus descuentos , sin mostrar qué dato es y tampoco pide contraseñas.
+#### RESULTADOS
+
+- Usuarios no encuentran de forma inmediata link para registro.
+- Al ingresar se encuentran con un formulario demasiado extenso, se muestran incómodos.
+- los 5 fallan en completar datos : rut, crear contraseña.(usuarios no entienden cómo debe ser llenado,el rut lo ingresan sin puntos y con guión y página solicita que sean con puntos y guion, no es intuitivo)
+- 4 de 5 usuarios consideran “ridículo” o “exagerado” las condiciones para crear contraseña. ( 1 mayúscula, 1 minúscula y 1 número), sienten que no recordarán posteriormente la clave.
+- Piden crear un PIN, además de contraseñas, no explican para qué.
+- Al intentar ingresar con sus nuevos usuarios creados, no existe un perfil.
+- Al comprar usando su registro un boleto, les piden un dato para usar sus descuentos , sin mostrar qué dato es y tampoco pide contraseñas.
 
 
-Página muestra mensaje ingreso de rut con puntos, pero usuarios al realizar escaneo de página no se percatan de la instrucción.
+Página muestra mensaje de ingreso de rut con puntos, pero usuarios al realizar escaneo de página no se percatan de la instrucción e ingresan mal este dato.
 Para la contraseña, este mensaje aparece después que el usuario crea una, no aparece una guía de estos datos.
 El PIN aparece acá, sin especificar para qué servirá.
 
@@ -194,23 +108,21 @@ Al hacer clic, despliega este campo sin especificar qué solicita, es el rut, pe
 
 Luego de la recopilación y validación de esta problemática se realiza la identificación de los user personas y customer journey map.
 
- DEFINIR - IDEAR
-.User persona.
-.Customer Journey map
+## DEFINIR - IDEAR
+- User persona.
+- Customer Journey map
 
 
-Síntesis y Definición 
+## Síntesis y Definición 
 
-USER PERSONAS
-.Usuario nuevo
-.Usuario ya registrado
-.Usuario con otros beneficios.
-
-
-
+#### USER PERSONAS
+- Usuario nuevo
+- Usuario ya registrado
+- Usuario con otros beneficios.
 
 
 USUARIO YA REGISTRADO
+
 
 
 
