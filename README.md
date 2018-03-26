@@ -25,9 +25,9 @@ El registro de inscripción es únicamente online, a través de la página ofici
 Para descubrir la problemática con respecto al club de beneficios, se realizó un proceso de Investigación, el que consiste en entrevistas a usuarios del cine y se revisan las páginas de redes sociales, correspondientes al sitio.
  Se encuentran los siguientes comentarios, los que son repetitivos y se considera este problema para realizar la investigación.
 
-![coment1](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(15).png)
-![coment2](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(16).png)
-![coment3](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(17).png)
+![coment1](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment1.png)
+![coment2](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment2.png)
+![coment3](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment3.png)
 
 - Confusión al ingresar rut, indica rut inválido sin aclarar error específico, en Club de Socios.
 
