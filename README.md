@@ -4,10 +4,10 @@
 
 El nuevo Club Hoyts ha querido sumarse a la era de la movilidad de la mano de una aplicación móvil. Con esta nueva herramienta pretende convertirse en un programa de fidelización más cercano al usuario fortaleciendo la experiencia de las personas al aportarle más ventajas y beneficios.
 
-**Su nueva app se caracteriza por: 
+**Su nueva app se caracteriza por:**
 - Mejorar la inscripción, reduciendo pasos.
 - Crea usuario y vista de beneficios dentro del perfil.
-- Mejora la compra de entradas con descuentos de socio, al comprar desde el perfil y aplicar descuentos de forma inmediata.**
+- Mejora la compra de entradas con descuentos de socio, al comprar desde el perfil y aplicar descuentos de forma inmediata.
 
 
 #### Mejora en la experiencia durante la inscripción club de socios cine Hoyts, para mejorar la fidelidad de los usuarios con el servicio.
@@ -24,6 +24,10 @@ El registro de inscripción es únicamente online, a través de la página ofici
 
 Para descubrir la problemática con respecto al club de beneficios, se realizó un proceso de Investigación, el que consiste en entrevistas a usuarios del cine y se revisan las páginas de redes sociales, correspondientes al sitio.
  Se encuentran los siguientes comentarios, los que son repetitivos y se considera este problema para realizar la investigación.
+
+![Logo](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(15).png)
+![Logo](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(16).png)
+![Logo](https://https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/export%20(17).png)
 
 - Confusión al ingresar rut, indica rut inválido sin aclarar error específico, en Club de Socios.
 
