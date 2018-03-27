@@ -222,7 +222,7 @@ Para utilizar el prototipo ingresar al siguiente Link:
 https://marvelapp.com/8498464
 
 
-## Como conclusión
+## Conclusión
 
 La investigación nace por la inquietud de los usuarios al no poder validar su registro, y no saber si son o no parte del club para pedir sus promociones o premios, causando inseguridad.
 sin embargo se encontraron distintas problemáticas relacionadas con el club de socios, por ejemplo:
