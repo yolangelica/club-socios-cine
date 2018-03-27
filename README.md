@@ -2,7 +2,8 @@
 # Club Cine
 ![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/logo.png)
 
-El nuevo Club Hoyts ha querido sumarse a la era de la movilidad de la mano de una aplicación móvil. Con esta nueva herramienta pretende convertirse en un programa de fidelización más cercano al usuario fortaleciendo la experiencia de las personas al aportarle más ventajas y beneficios.
+Esta propuesta interviene la web ya existente, mejorando el flujo desde la inscripción hasta la utilización de beneficios de los socios inscritos.
+Con esta nueva herramienta cine Hoyts pretende convertirse en un programa de fidelización más cercano al usuario fortaleciendo la experiencia de las personas al aportarle más ventajas y beneficios.
 
 **Su nueva app se caracteriza por:**
 - Mejorar la inscripción, reduciendo pasos.
@@ -22,12 +23,14 @@ El registro de inscripción es únicamente online, a través de la página ofici
  **Descubrir Problemáticas...**
 
 
-Para descubrir la problemática con respecto al club de beneficios, se realizó un proceso de Investigación, el que consiste en entrevistas a usuarios del cine y se revisan las páginas de redes sociales, correspondientes al sitio.
+Para descubrir la problemática con respecto al club de beneficios, se realizó un proceso de investigación, el que consiste en entrevistas a usuarios del cine y se revisan los comentarios de redes sociales, correspondientes al sitio.
  Se encuentran los siguientes comentarios, los que son repetitivos y se considera este problema para realizar la investigación.
 
 ![coment1](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment1.png)
 ![coment2](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment2.png)
 ![coment3](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/coment3.png)
+
+Problematicas encontradas:
 
 - Confusión al ingresar rut, indica rut inválido sin aclarar error específico, en Club de Socios.
 
@@ -39,17 +42,24 @@ Para descubrir la problemática con respecto al club de beneficios, se realizó 
 
 
 ### 1-ENTREVISTAS A  USUARIO
-
-
 - LUGAR : La entrevista se realizó en  cine Hoyts de Maipú y también en Agustinas.
 - Entrevistados: Se entrevistaron a Supervisores,cajeros y  clientes.
+
+
+La entrevista se realiza a los funcionarios para obtener más información sobre este club de socios, por ejemplo :¿desde cuándo funciona este club de socios?, ¿se informó a los usuarios que existe un nuevo club?,¿desde dónde se pueden ver los puntos o beneficios?¿los usuarios se inscriben en caja, usan algún beneficio más frecuentemente?
+¿están pendientes de inscribir sus puntos los clientes cuando compran en caja? 
+
+A los clientes se les pregunta sobre ¿cómo compran sus entradas?, ¿cómo obtienen sus descuentos?,¿cómo consulta sus puntos  acumulados? y ¿en qué cosas las pueden cambiar o canjear?
+
 
  **Supervisores/ cajeros**
  
 - Resultados:
-Con respecto a la verificación de puntos, indican que se podría verificar desde la web, pero al pedirles que lo realicen se percatan que no se pueden ver los datos, sólo informan que hay que descargar la app, para ver puntos, pero la inscripción es por cualquier plataforma.
 Confirman la información de que este sistema es nuevo desde este año 2018.
+Sólo informan a sus clientes a través de propaganda de la página o directamente en el cine por folletos.
 Dicen que los usuarios utilizan mucho los beneficios inmediatos sobre todo los días lunes y martes.
+Al comprar procuran dar su rut para acumular puntos.
+
  **Clientes**
 -Resultados:
 No tienen la app del cine, no lo sientes indispensable, gasta memoria.
@@ -59,8 +69,8 @@ Suelen ir acompañados al cine, por lo que les gusta este tipo de promociones.
 Quienes descargaron alguna vez la app, no pudieron utilizar otro tipos de descuentos( compañías telefónica, bancos,etc).
 
 
-Para verificar las problemáticas señaladas por los usuarios se realizaron dos evaluaciones: 
-- Una heurística.
+Para verificar la usabilidad de la página se realizó: 
+- Una evaluación heurística.
 - Test de usabilidad.
 
  ### EVALUACIÓN HEURÍSTICA
@@ -101,14 +111,11 @@ Página muestra mensaje de ingreso de rut con puntos, pero usuarios al realizar 
 Para la contraseña, este mensaje aparece después que el usuario crea una, no aparece una guía de estos datos.
 El PIN aparece acá, sin especificar para qué servirá.
 
-
-
+![error](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/error.png)
 
 Al hacer clic, despliega este campo sin especificar qué solicita, es el rut, pero no pide ninguna contraseña de las solicitadas antes para usar el beneficio.
 
-
-
-
+![error](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/compra-ticket.png)
 
 
 Luego de la recopilación y validación de esta problemática se realiza la identificación de los user personas y customer journey map.
@@ -116,9 +123,6 @@ Luego de la recopilación y validación de esta problemática se realiza la iden
 ## DEFINIR - IDEAR
 - User persona.
 - Customer Journey map
-
-
-## Síntesis y Definición 
 
 #### USER PERSONAS
 - Usuario nuevo
@@ -162,6 +166,7 @@ Se pone en este nivel Club Hoyts, ya que ningún usuario llegó inmediatamente a
 C. alternativos, ningún usuario lo entendió como “contenido alternativo” que es referente a otras actividades en cine, como teatro, música, etc., por lo que se agrupó en Otros eventos, ahí estarán también Muestras y festivales.
 
 
+[](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/menu.png)
 
 
 #### Mapa Contenido
@@ -217,8 +222,9 @@ Para utilizar el prototipo ingresar al siguiente Link:
 https://marvelapp.com/8498464
 
 
-Como conclusión
-La investigación nace por la inquietud de los usuarios al no poder registrarse y validar su registro, y no saber si son o no parte del club para pedir sus promociones o premios.
+## Como conclusión
+
+La investigación nace por la inquietud de los usuarios al no poder validar su registro, y no saber si son o no parte del club para pedir sus promociones o premios, causando inseguridad.
 sin embargo se encontraron distintas problemáticas relacionadas con el club de socios, por ejemplo:
 -Inscripción muy larga.
 -No existe un perfil de usuario para verificar los beneficios o puntos, ni en la app, ni en la web, tampoco desde el móvil.
