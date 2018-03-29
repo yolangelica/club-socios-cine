@@ -42,10 +42,9 @@ Problematicas encontradas:
 
 
 
-### 1-ENTREVISTAS A  USUARIO
+### Entrevistas :
 - LUGAR : La entrevista se realizó en  cine Hoyts de Maipú y también en Agustinas.
 - Entrevistados: Se entrevistaron a Supervisores,cajeros y  clientes.
-
 
 La entrevista se realiza a los funcionarios para obtener más información sobre este club de socios, por ejemplo :¿desde cuándo funciona este club de socios?, ¿se informó a los usuarios que existe un nuevo club?,¿desde dónde se pueden ver los puntos o beneficios?¿los usuarios se inscriben en caja, usan algún beneficio más frecuentemente?
 ¿están pendientes de inscribir sus puntos los clientes cuando compran en caja? 
@@ -62,22 +61,23 @@ Dicen que los usuarios utilizan mucho los beneficios inmediatos sobre todo los d
 Al comprar procuran dar su rut para acumular puntos.
 
  **Clientes**
--Resultados:
+- Resultados:
 No tienen la app del cine, no lo sientes indispensable, gasta memoria.
 Comprar entradas principalmente en caja y luego desde su laptop, por sentir que es más clara la información o cómodo, no saben si los descuentos los pueden validar desde la web.
 Se inscriben al club para tener los beneficios del 2x1 o de maxicombo, pero no les es muy importante juntar puntos, es a largo plazo, no saben donde visualizarlos, lo que se les hace menos llamativo.
 Suelen ir acompañados al cine, por lo que les gusta este tipo de promociones.
 Quienes descargaron alguna vez la app, no pudieron utilizar otro tipos de descuentos( compañías telefónica, bancos,etc).
 
+## TEST USABILIDAD
 
 Para verificar la usabilidad de la página se realizó: 
 - Una evaluación heurística.
 - Test de usabilidad.
 
- ### EVALUACIÓN HEURÍSTICA
+ ### Evaluación Heurística.
+ 
  10 HEURÍSTICAS DE USABILIDAD DE JAKOB NIELSEN
 
- 
 **Resultados** 
 
 AL realizar la evaluación se encontraron las siguientes falencias:
@@ -87,12 +87,11 @@ AL realizar la evaluación se encontraron las siguientes falencias:
 - No especifica cómo llenar algunos datos (rut, contraseña).
 
 
-### TEST USABILIDAD
+### Test usabilidad web club de cine.
 
 Para esta evaluación de usabilidad se utilizó el programa Loom-video recorder, se testean a 5 usuarios,que no estuvieran registrados y se les pidió que ingresaran a la web del cine para realizar su inscripción a través de una tablet. 
 Estos aceptan ser grabados, bajos sus condiciones, y se les asegura que es información confidencial, que no será divulgada ni utilizada con otros fines.
 
-**Resultados**
  En la realización del test de usabilidad se buscaron usuarios que gusten de ir al cine , pero que no estén inscritos aún en el club cinehoyts , a estos se les entregaron tareas específicas:
 
  1- Registrarse como socios de club cinehoyts.
@@ -127,7 +126,8 @@ Luego de la recopilación y validación de esta problemática se realiza la iden
 - User persona.
 - Customer Journey map
 
-#### USER PERSONAS
+#### User personas
+
 - Usuario nuevo
 - Usuario ya registrado
 - Usuario con otros beneficios.
@@ -139,7 +139,7 @@ Luego de la recopilación y validación de esta problemática se realiza la iden
 
 
 
-#### CUSTOMER JOURNEY MAP : NUEVO USUARIO
+#### Customer Journey map: nuevo usuario.
 ![Logo](https://raw.githubusercontent.com/yolangelica/club-socios-cine/master/img/customerj.png)
 
 
@@ -229,9 +229,9 @@ https://marvelapp.com/8498464
 
 La investigación nace por la inquietud de los usuarios al no poder validar su registro, y no saber si son o no parte del club para pedir sus promociones o premios, causando inseguridad.
 sin embargo se encontraron distintas problemáticas relacionadas con el club de socios, por ejemplo:
--Inscripción muy larga.
--No existe un perfil de usuario para verificar los beneficios o puntos, ni en la app, ni en la web, tampoco desde el móvil.
+- Inscripción muy larga.
+- No existe un perfil de usuario para verificar los beneficios o puntos, ni en la app, ni en la web, tampoco desde el móvil.
 - Al comprar boletos, sólo pide el rut para validar el descuento, no es una plataforma personalizada, tampoco pide ninguna de las contraseñas solicitadas antes al crear una cuenta.
--Usuarios se muestran incómodos y aquellos que están interesados en los beneficios se ven en la obligación de asistir al cine a comprar sus entradas, haciendo las filas, para obtener sus descuentos.
+- Usuarios se muestran incómodos y aquellos que están interesados en los beneficios se ven en la obligación de asistir al cine a comprar sus entradas, haciendo las filas, para obtener sus descuentos.
 
 Para esto se entrega esta solución donde se acompaña al usuario, tanto si es nuevo y desea registrarse, también si desea visualizar su perfil de socio, o si desea utilizar sus beneficios.
