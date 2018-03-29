@@ -99,7 +99,7 @@ Estos aceptan ser grabados, bajos sus condiciones, y se les asegura que es infor
  3- Verificación de puntos o perfil de socio.
 
 
-#### RESULTADOS
+**Resultados**
 
 - Usuarios no encuentran de forma inmediata link para registro.
 - Al ingresar se encuentran con un formulario demasiado extenso, se muestran incómodos.
@@ -156,9 +156,9 @@ No encuentra donde revisar su perfil de socio.
 *documento adjunto en carpeta
 
 
-#### ARQUITECTURA DE LA INFORMACIÓN
+## ARQUITECTURA DE LA INFORMACIÓN
 
-##### Cart Sorting
+#### Cart Sorting
 Al momento de testear con usuarios, se descubrió que en el menú que está disponible desde Home, las etiquetas son confusas.
 Se realiza Cart sorting, para reorganizar esta información para que  el flujo sea más rápido y simple.
 Así cambia la pantalla original de cineHoyst a la nueva propuesta.
@@ -179,7 +179,7 @@ Para organizar mejor el contenido del flujo en la inscripción y utilización de
 
 
 
-### Formulario Inscripción Club de Socios
+## Formulario Inscripción Club de Socios
  
 Se modifica el Formulario para evitar que usuarios abandonen la página por solicitar demasiados datos.
 Se busca optimizar los formularios para la web.
@@ -207,7 +207,7 @@ Se comenzaron a eliminar algunos campos que parecen irrelevantes para el usuario
 Y se crea nuevo flujo de perfil usuario utilizando otras páginas de socios, como Grupón, Cuponatic, Movistar o de juegos donde acumulan puntos, por ejemplo Candy Crush sirvió para determinar los premios bloqueados con puntaje insuficiente  y aquellos con el puntaje suficiente que aparecieran desbloqueados.
 
 
-#### NUEVA PROPUESTA 
+## NUEVA PROPUESTA 
 Incluye: 
 -Flujo registro con nuevo formulario más rápido y simple(6 pasos) v/s 9 pasos versión anterior.
 -Nuevo espacio: Perfil de Usuario, se crea para mejorar la experiencia completa del usuario al inscribirse y sentirse parte de este CLub, mejoraría la fidelización y conversión de usuarios. 
